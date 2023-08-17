@@ -3,7 +3,7 @@ Created a Langchain App to chat with multiple PDF files using the ChatGPT API an
 
 ## Where to find the tutorial - MultiPDF Chat App
 
-    You can find the tutorial for this project on [YouTube](https://www.youtube.com/watch?v=dXxQ0LR-3Hg).
+    You can find the tutorial for this project on [YouTube] (https://www.youtube.com/watch?v=dXxQ0LR-3Hg).
 
 ## Introduction
 
@@ -12,7 +12,7 @@ The MultiPDF Chat App is a Python application that allows you to chat with multi
 ## How It Works
 ![](docs/PDF-LangChain.jpg)
 
-##Results
+## Results
 
 ![](docs/Resume_results.PNG)
 
